@@ -1,0 +1,23 @@
+{
+  "name": "nodejstest",
+  "version": "1.0.0",
+  "description": "Test environment for nodejs and general javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waynebb7/nodejstest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waynebb7/nodejstest/issues"
+  },
+  "homepage": "https://github.com/waynebb7/nodejstest#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
